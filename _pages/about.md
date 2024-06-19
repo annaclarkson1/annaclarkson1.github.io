@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Anna Clarkson
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. 
 
 profile:
   align: right
