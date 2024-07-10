@@ -3,7 +3,7 @@ layout: page
 title: A Plan to Keep Students Safe
 description: An Analysis on School Shootings
 img: assets/img/washington_post.jpg
-redirect: assets/pdfs/DATA%20502%20-%20An%20Analysis%20on%20School%20Shootings.pdf
+redirect: DATA%20502%20-%20An%20Analysis%20on%20School%20Shootings.pdf
 importance: 3
 category: school
 ---
