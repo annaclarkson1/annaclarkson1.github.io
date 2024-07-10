@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: A Plan to Keep Students Safe
+description: An Analysis on School Shootings
+img: assets/img/washington_post.jpg
+redirect: annaclarkson1.github.io/assets/pdfs/DATA%20502%20-%20An%20Analysis%20on%20School%20Shootings.pdf.pdf
 importance: 3
-category: work
+category: school
 ---
 
 Every project has a beautiful feature showcase page.
