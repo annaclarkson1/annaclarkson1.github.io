@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of projects completed as part of my graduate school program.
 nav: true
 nav_order: 3
-display_categories: [school, work, fun]
+display_categories: [school]
 horizontal: false
 ---
 
