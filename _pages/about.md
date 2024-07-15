@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: portfolio_picture.jpg
+  image: portfolio_picture.jpeg
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
