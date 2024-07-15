@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of projects completed during my graduate school program.
+description: A collection of projects completed as part of my graduate school program.
 nav: true
 nav_order: 3
 display_categories: [school, work, fun]
