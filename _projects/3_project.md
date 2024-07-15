@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Plan to Keep Students Safe
-description: An Analysis on School Shootings
+description: An analysis on school shootings, using a Washington Post database and analyzing the data in R. 
 img: assets/img/washington_post.jpg
 redirect: https://github.com/annaclarkson1/annaclarkson1.github.io/blob/master/_projects/DATA%20502%20-%20An%20Analysis%20on%20School%20Shootings.pdf
 importance: 3
