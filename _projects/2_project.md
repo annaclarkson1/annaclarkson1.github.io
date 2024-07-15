@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weather & Traffic
-description: An API Analysis of Weather & Traffic Data
+description: An analysis of weather and traffic data, using APIs from TomTom and OpenWeather. The data analysis was done in SQL and R.
 img: assets/img/TomTom_OpenWeather.jpg
 redirect: https://github.com/annaclarkson1/annaclarkson1.github.io/blob/master/_projects/DATA%20503%20-%20Final%20Project.pdf
 importance: 2
