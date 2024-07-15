@@ -1,11 +1,11 @@
 ---
 layout: page
-title: School Shooting Analysis
-description: with background image
-img: assets/img/washington_post.jpg
-importance: 1
-category: work
-related_publications: true
+title: Weather & Traffic
+description: An API Analysis of Weather & Traffic Data
+img: assets/img/TomTom_OpenWeather.jpg
+redirect: https://github.com/annaclarkson1/annaclarkson1.github.io/blob/master/_projects/DATA%20503%20-%20Final%20Project.pdf
+importance: 2
+category: school
 ---
 
 Every project has a beautiful feature showcase page.
