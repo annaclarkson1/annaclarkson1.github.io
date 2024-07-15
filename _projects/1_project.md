@@ -21,6 +21,3 @@ This is the final project for the Data Visualization course. Working with a part
         {% include figure.liquid path="assets/img/Shootings_by_age.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
-
-{% endraw %}
