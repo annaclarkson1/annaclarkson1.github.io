@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Plan to Keep Students Safe
-description: An Analysis on School Shootings
+description: An analysis on school shootings, using a Washington Post database and analyzing the data in R. 
 img: assets/img/washington_post.jpg
 importance: 1
 category: school
